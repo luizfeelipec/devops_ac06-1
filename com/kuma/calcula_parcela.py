@@ -8,6 +8,8 @@ def valorPagamento(valor, diasAtraso):
         return valor + multa + adicionalAtraso
     else:
         return valor
+
+
 '''
 # Entrada de Dados
 valor = 1
